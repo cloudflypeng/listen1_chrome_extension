@@ -134,7 +134,7 @@ angular.module('listenone').controller('ProfileController', [
         white: ['css/iparanoid.css', 'css/common.css'],
         black: ['css/origin.css', 'css/common.css'],
         white2: ['css/iparanoid2.css', 'css/common2.css'],
-        black2: ['css/origin2.css', 'css/common2.css'],
+        black2: ['css/origin2.css', 'css/common3.css'],
       };
       // You can change the language during runtime
       if (themeFiles[theme] !== undefined) {
